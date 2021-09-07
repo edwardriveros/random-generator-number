@@ -1,4 +1,4 @@
-#Thia code generate n random numbers using a txt file as sourse of
+#This code generates n random numbers using a txt file as sourse of
 # randomness 
 
 import os
@@ -144,15 +144,7 @@ def Generator(n):
 
     return 
 
-Generator(1000)
-# prng = WarAndPeacePseudoRandomNumberGenerator(1000)
-# r = prng.random()
-# prng = WarAndPeacePseudoRandomNumberGenerator(1234)
-# r = prng.random()
-# r
-
-
-
+Generator(n)
 
 
 
